@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExConjunto01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b328849fc1133183aafba25cadd5ee0c63b72476")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee7b784f4060ff0a8756c31ecc8ba38b4394cc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExConjunto01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExConjunto01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
