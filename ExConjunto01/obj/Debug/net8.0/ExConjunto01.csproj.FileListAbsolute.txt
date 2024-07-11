@@ -12,3 +12,4 @@ E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\refint\ExConjunto01.
 E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.pdb
 E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.genruntimeconfig.cache
 E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ref\ExConjunto01.dll
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.sourcelink.json
