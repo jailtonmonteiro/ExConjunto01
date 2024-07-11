@@ -1,0 +1,14 @@
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\bin\Debug\net8.0\ExConjunto01.exe
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\bin\Debug\net8.0\ExConjunto01.deps.json
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\bin\Debug\net8.0\ExConjunto01.runtimeconfig.json
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\bin\Debug\net8.0\ExConjunto01.dll
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\bin\Debug\net8.0\ExConjunto01.pdb
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.AssemblyInfoInputs.cache
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.AssemblyInfo.cs
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.csproj.CoreCompileInputs.cache
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.dll
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\refint\ExConjunto01.dll
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.pdb
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ExConjunto01.genruntimeconfig.cache
+E:\Cursos\CSharp\ExConjunto01\ExConjunto01\obj\Debug\net8.0\ref\ExConjunto01.dll
